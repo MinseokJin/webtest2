@@ -10,13 +10,16 @@ body {
     min-height: 200px;
     border: 1px solid #ddd;
     padding: 20px;
+    color: blue;
 }
 
 table {
     border: 1px solid #ddd;
     width: 100%;
+    color: red;
 }
 
 table td {
     border: 1px solid #ddd;
+    color: pink;
 }
